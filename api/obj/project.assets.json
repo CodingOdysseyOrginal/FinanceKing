@@ -4687,11 +4687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Christopher\\OneDrive\\Code\\FinanceKing\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\Christopher\\OneDrive\\FinanceKing\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Users\\Christopher\\OneDrive\\Code\\FinanceKing\\api\\api.csproj",
+      "projectPath": "C:\\Users\\Christopher\\OneDrive\\FinanceKing\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Christopher\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Christopher\\OneDrive\\Code\\FinanceKing\\api\\obj\\",
+      "outputPath": "C:\\Users\\Christopher\\OneDrive\\FinanceKing\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christopher\\AppData\\Roaming\\NuGet\\NuGet.Config"
