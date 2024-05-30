@@ -1,7 +1,6 @@
 import axios from "axios";
-
-import { handleError } from "../Helpers/ErrorHandler";
 import { CommentGet, CommentPost } from "../Models/Comment";
+import { handleError } from "../Helpers/ErrorHandler";
 
 const api = "http://localhost:5274/api/comment/";
 
