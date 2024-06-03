@@ -10,7 +10,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        lightBlue: "hsl(215.02, 98.39%, 51.18%)",
+        lightBlue: "#BFDBF7",
+        LightBlue: "#BFDBF7",
+        DarkBlue: "#2C2A4A",
+        BlueBlue: "#53BCDD",
         darkBlue: "hsl(213.86, 58.82%, 46.67%)",
         lightGreen: "hsl(156.62, 73.33%, 58.82%)",
       },
