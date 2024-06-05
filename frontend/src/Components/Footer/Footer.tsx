@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-8 text-center text-sm">
-          © 2024 Your Company Name. All rights reserved.
+          © 2024 CodingOdysseyOrginal. All rights reserved.
         </div>
       </div>
     </footer>
